@@ -24,7 +24,7 @@ Here are a few example ideas you can ship using Envio:
 ## Submissions:
 
 - Applications are reviewed on a case-by-case basis. The more creative, complex, or impactful the project idea, the higher the grant amount. Please allow for up to 2 working days (24 hours) for your application to be reviewed.
-- Successful applicants will be notified upon application acceptance and will agree with the Envio team on a suitable timeline for project submission (incl. demo). Please note, grantees submitted to the [project submission folder](https://github.com/Float-Capital/envio-grant-program/tree/main/project%20submissions) in Github.
+- Successful applicants will be notified upon application acceptance and will agree with the Envio team on a suitable timeline for project submission (incl. demo). Please note grantees submit their Envio projects to the [project submission folder](https://github.com/Float-Capital/envio-grant-program/tree/main/project%20submissions) in Github.
 - Upon project submission, please allow up to 3 working days (36 hours) decision period. Prizes will only be distributed to participants who have completed their submission to the pre-set standards agreement with Envio. Envio's “Build Bigger. Ship Faster” program concludes when the Prize Pool rewards have been distributed to program participants.
 - Participants will have an opportunity to present their Envio project submission on a closing ceremony Twitter Spaces / Community Call (dates TBC). The recording will be uploaded on YouTube.
 
