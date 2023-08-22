@@ -12,7 +12,7 @@ Here are a few example ideas you can ship using Envio:
 
 - A simple decentralized application (DApp) powered by Envio
 - A useful dashboard (e.g. multi-chain staking dashboard, aggregating protocol fees, etc.)
-- An Indexer template for popular OpenZeppelin Standards (e.g. [ERC2612](https://eips.ethereum.org/EIPS/eip-2612), [ERC4626](https://eips.ethereum.org/EIPS/eip-4626), [ERC2981](https://eips.ethereum.org/EIPS/eip-2981) )
+- An Indexer template for popular OpenZeppelin Standards other than ERC20,ERC721,ERC1115 (e.g. Governance contracts)
 - Upgrade or migrate an existing use case subgraph (e.g. GMX v2 subgraph, Uniswap V3)
 - A template for easily aggregating / calculating SUM/ AVG / MIN / MAX values
 
@@ -24,14 +24,14 @@ Here are a few example ideas you can ship using Envio:
     - Outline your proposal using the [template](https://github.com/Float-Capital/envio-grant-program/blob/main/project%20proposals/proposal%20template) provided as guidance
     - Create a Pull Request (PR) to merge your project proposal into the repository
 - Applications are reviewed on a case-by-case basis. The more creative, complex, or impactful the project idea, the higher the grant amount you will receive.
-- Please allow for up to 2 working days (24 hours) for your project proposal to be reviewed.
+- Please allow for up to 2 working days (48 hours) for your project proposal to be reviewed.
 - Join our [Discord](https://discord.gg/mZHNWgNCAc) for updates and announcements on the “Build Bigger. Ship Faster” Grant Program, and introduce yourself to the team 👋
 
 ## Submissions:
 
 - Successful applicants will be notified upon application acceptance and will agree with the Envio team on a suitable grant amount and timeline for project submission (incl. demo).
 - Please note, grantees submit their Envio projects to the **[project submission folder](https://github.com/Float-Capital/envio-grant-program/tree/main/project%20submissions)** in Github.
-- Upon project submission, please allow up to 3 working days (36 hours) decision period.
+- Upon project submission, please allow up to 3 working days (72 hours) decision period.
 - Prizes will only be distributed to participants who have completed their submission to the pre-set standards agreement with Envio.
 - Participants will have an opportunity to present their Envio project submission on a closing ceremony Twitter Spaces / Community Call (dates TBC). The recording will be uploaded on YouTube.
 
