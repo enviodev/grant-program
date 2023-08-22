@@ -26,7 +26,8 @@ Here are a few example ideas you can ship using Envio:
 - Applications are reviewed on a case-by-case basis. The more creative, complex, or impactful the project idea, the higher the grant amount you will receive.
 - Please allow for up to 2 working days (48 hours) for your project proposal to be reviewed.
 - Join our [Discord](https://discord.gg/mZHNWgNCAc) for updates and announcements on the “Build Bigger. Ship Faster” Grant Program, and introduce yourself to the team 👋
-    - This is alhpa software - hot of the press, so we are extremely appreciative of feedback - but more so we are there to give you a red carpet level of support if you have difficulties or questions.
+- This is alhpa software - hot of the press, so we are extremely appreciative of feedback - but more so we are there to give you a red carpet level of support if you have difficulties or questions
+- Visit our [docs](https://docs.envio.dev/) to learn more about Envio 
 
 ## Submissions:
 
