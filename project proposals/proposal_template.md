@@ -19,7 +19,7 @@
 - [ ]  $250
 - [ ]  $100
 
-7. How much **time** do you think you need to build your Envio project? We will discuss and agree this timeline if you are application / proposal is accepted. 
+7. How much **time** do you think you need to build your Envio project? We will discuss and agree this timeline if your application / proposal is accepted. 
 
 8. How did you find out about Envio's **"Build Bigger. Ship Faster”** Grant Application?
 
@@ -29,7 +29,10 @@
 - [ ]  Event
 - [ ]  Other: ______
 
-Anything not clear? Email us at hello@envio.dev or join our [Discord](https://discord.gg/mZHNWgNCAc), and we'll be happy to help and answer any questions. 
 
-Ship with us. By Builders. For Builders.
+**Anything not clear?** Join our [Discord](https://discord.gg/mZHNWgNCAc) where we have excelent support or if you prefer email us at [hello@envio.dev](mailto:hello@envio.dev). We'll be happy to help and answer any questions and discuss anything about the indexer.
+
+---
+
+**Ship with us. By Builders. For Builders.**
 
