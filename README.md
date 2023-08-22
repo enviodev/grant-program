@@ -2,7 +2,7 @@
 
 ![Envio_Grant_Program](https://github.com/Float-Capital/envio-grant-program/assets/102967165/d2e698a2-9799-4618-b33c-e09612fb9e3f)
 
-To commemorate the launch of our first stable alpha release, we’re extending an invitation to all blockchain developers to apply to the **Envio "Build Bigger. Ship Faster" Grant Program**. The premise is simple yet incredibly rewarding: integrate a useful or interesting use case with Envio, share your invaluable feedback on the experience, and receive up to **$1000 USDC**.
+To commemorate the launch of our alpha release, we’re extending an invitation to all blockchain developers to apply to the **Envio "Build Bigger. Ship Faster" Grant Program**. The premise is simple yet incredibly rewarding: integrate a useful or interesting use case with Envio, share your invaluable feedback on the experience, and receive up to **$1000 USDC**.
 
 As any seasoned developer knows, dealing with the copious amounts of disorganized, slow-to-retrieve data that blockchains generate can be a daunting task. This is where Envio comes in. With its developer-friendly indexing solution, Envio makes receiving, transforming, storing, and accessing on-chain data a breeze. The challenge is to demonstrate how you can build something brilliant using Envio’s customizable, developer-friendly indexing solution. 
 
