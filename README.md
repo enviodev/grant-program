@@ -12,7 +12,7 @@ Here are a few example ideas you can ship using Envio:
 
 - A simple decentralized application (DApp) powered by Envio
 - A useful dashboard (e.g. multi-chain staking dashboard, aggregating protocol fees, etc.)
-- An Indexer template for popular OpenZeppelin Standards (e.g. [ERC20](https://eips.ethereum.org/EIPS/eip-20), [ERC2612](https://eips.ethereum.org/EIPS/eip-2612), [ERC4626](https://eips.ethereum.org/EIPS/eip-4626), [ERC2981](https://eips.ethereum.org/EIPS/eip-2981) )
+- An Indexer template for popular OpenZeppelin Standards (e.g. [ERC2612](https://eips.ethereum.org/EIPS/eip-2612), [ERC4626](https://eips.ethereum.org/EIPS/eip-4626), [ERC2981](https://eips.ethereum.org/EIPS/eip-2981) )
 - Upgrade or migrate an existing use case subgraph (e.g. GMX v2 subgraph, Uniswap V3)
 - A template for easily aggregating / calculating SUM/ AVG / MIN / MAX values
 
