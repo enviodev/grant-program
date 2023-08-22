@@ -12,7 +12,7 @@ Here are a few example ideas you can ship using Envio:
 
 - A simple decentralized application (DApp) powered by Envio
 - A useful dashboard (e.g. multi-chain staking dashboard, aggregating protocol fees, etc.)
-- An Indexer template for popular OpenZeppelin Standards other than ERC20,ERC721,ERC1115 (e.g. Governance contracts)
+- An Indexer template for popular OpenZeppelin Standards other than ERC20,ERC721,ERC1155 (e.g. Governance contracts)
 - Upgrade or migrate an existing use case subgraph (e.g. GMX v2 subgraph, Uniswap V3)
 - A template for easily aggregating / calculating SUM/ AVG / MIN / MAX values
 
