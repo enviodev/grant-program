@@ -1,6 +1,6 @@
 # Envio launches “Build Bigger. Ship Faster” Grant Program.
 
-![Envio_Grant_Program](https://github.com/Float-Capital/envio-grant-program/assets/102967165/d2e698a2-9799-4618-b33c-e09612fb9e3f)
+![envio-grant-program](https://github.com/Float-Capital/envio-grant-program/assets/102967165/b3b92cef-3939-4c1d-b383-78d042f309f2)
 
 To commemorate the launch of our alpha release, we’re extending an invitation to all blockchain developers to apply to the **Envio "Build Bigger. Ship Faster" Grant Program**. The premise is simple yet incredibly rewarding: integrate a useful or interesting use case with Envio, share your invaluable feedback on the experience, and receive up to **$1000 USDC**.
 
