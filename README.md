@@ -3,21 +3,19 @@
 ![envio-grant-program-is-live](https://github.com/Float-Capital/envio-grant-program/assets/102967165/b1e57870-fad0-4330-abcf-fc29a9dde60e)
 
 
-To commemorate the launch of our alpha release, we’re extending an invitation to all blockchain developers to apply to the Envio "Build Bigger. Ship Faster" Grant Program. The premise is simple yet incredibly rewarding: integrate a useful or interesting use case with Envio, share your invaluable feedback, and receive up to $10,000 USDC.
+To commemorate the launch of our Alpha release, Envio invites all blockchain developers to apply to the **Envio "Build Bigger. Ship Faster" Grant Program**. The premise is simple yet incredibly rewarding: integrate a useful or interesting use-case with Envio, share your invaluable feedback, and receive from a grant pool of **$10,000 USDC**.
 
-As any seasoned blockchain developer knows, dealing with disorganized, slow-to-retrieve data stored on the blockchain can be a daunting task.
-
-This is where Envio comes in. With its developer-friendly indexing solution, Envio makes receiving, transforming, loading on-chain data a breeze. Whether you're launching a multi-chain NFT marketplace, starting a DAO, diving into GameFi, or pioneering the next big P2E project, data indexers lik Envio serve as an essential building block tailored to your application’s unique data needs.
+As any seasoned blockchain developer knows, dealing with disorganized, slow-to-retrieve data stored on the  blockchain can be a daunting task. This is where Envio comes in. With its developer-friendly indexing solution, Envio makes receiving, transforming, loading on-chain data a breeze. Whether you're launching a multi-chain NFT marketplace, starting a DAO, diving into GameFi, or pioneering the next big P2E project, data indexers like Envio serve as an essential building block tailored to your application’s unique data needs.
 
 The challenge is to demonstrate how you can build something brilliant using Envio’s customizable, developer-friendly indexing solution.
 
 ## Wondering what to build? 👀
 
-Here are a few example use cases you can ship using Envio:
+Here are a few example use-cases you can ship using Envio:
 
-- A simple decentralized application (DApp)
+- A simple decentralized application (DApp).
 - A useful dashboard (e.g. DeFi staking opportunity dashboard, aggregating protocol fees, etc).
-- Upgrade or migrate an existing use case subgraph to battle-t4est Envio's capabilities (e.g. GMX v2, Uniswap V3 subgraph).
+- Upgrade or migrate an existing use case subgraph to battle-test Envio's capabilities (e.g. GMX v2, Uniswap V3 subgraph).
 - An indexer template for popular OpenZeppelin Standards other than ERC20, ERC721, ERC1155 (e.g. Governance contracts).
 - An indexer template with data handling logic for easily aggregating/calculating SUM / AVG / MIN / MAX values for DApps.
 
@@ -32,7 +30,7 @@ Here are a few example use cases you can ship using Envio:
 - Applications are reviewed on a case-by-case basis. Please allow for up to 2 working days (48 hours) for your project proposal to be reviewed and for us to get into touch with you
 - Join our [Discord](https://discord.gg/mZHNWgNCAc) for updates and announcements on the “Build Bigger. Ship Faster” Grant Program, and introduce yourself to the team 👋
 
-This is alhpa software - hot of the press, so we are extremely appreciative of feedback - but more so we are there to give you a red carpet level of support if you have difficulties or questions. Visit our [docs](https://docs.envio.dev/) to learn more about Envio.
+This is alpha software - hot of the press, so we are extremely appreciative of feedback - but more so we are there to give you a red carpet level of support if you have difficulties or questions. Visit our [docs](https://docs.envio.dev/) to learn more about Envio.
 
 ## Submissions:
 
