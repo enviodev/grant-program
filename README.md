@@ -19,7 +19,9 @@ Here are a few example use-cases you can ship using Envio:
 - An indexer template for popular OpenZeppelin Standards other than ERC20, ERC721, ERC1155 (e.g. Governance contracts).
 - An indexer template with data handling logic for easily aggregating/calculating SUM / AVG / MIN / MAX values for DApps.
 
-## How do I get involved?
+You are more than welcome to apply for a grant with your own idea, or you can take a look at some of the [bounties](https://discord.com/channels/1093188574305857656/1153324195342729336) in our Discord for further inspiration. Bounties are listed and maintained in the Envio Discord.
+
+## How to apply for a grant
 
 - Apply for the Envio “Build Bigger. Ship Faster" grant program by completing the [form](https://forms.gle/8rMndoELXQY4QYBu9), or submitting your proposal in the Github repository:
     - Fork the [envio-grant-program repository](https://github.com/Float-Capital/envio-grant-program/tree/main)
