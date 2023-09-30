@@ -1,0 +1,70 @@
+
+# Project Proposal template 
+
+**Fill out the application form** below to be considered for a grant from Envio! Give us two working days (24 hours) to review your submission. Successful applicants will be notified upon application acceptance and the timeline for project submission to the Github repo will be mutually agreed upon with the program participant.
+
+1. Let's start with your **name** or **pseudonym.**
+
+  Niceface
+
+2. What is your **email address**? To be used for all formal correspondence, not spam.
+
+  niceface4life@gmail.com
+
+3. What is the **name your project** / idea / group?
+
+      Two Defi Dashboards 
+         1. Creating DeFi staking opportunity dashboard
+         2. Creating  Aggregating protocol fees Dashboard
+
+4. If applicable, please share links relevant to your project (e.g. Website, Twitter, GitHub)
+     I am a Dune analytic Wizard. I love creating dashboards on dune - https://dune.com/wincloud
+
+5. What do you plan to build with Envio's indexing capabilities? Please include a **motivation for your grant application.** *We might ask to have a quick 15-min call if there are any parts of the application that seems unclear.*
+
+         Blockchain indexing just got interesting to me. I have been using Dune analytics to dig out blockchain data. Was learning a tutorial from Bogota Ethconference which shared 
+         blockchain indexing. So, when I saw your bounty on dework, it p my interest though it was rejected when I applied. So, seeing this grant present a perfect 
+         opportunity for me to practicalized what I just learned from the tutorial. Remember, I am used to defi data on Dune, I see this as challenge which must be won.
+      
+         Here are data points i hope to showcase:
+         1. Creating DeFi staking opportunity dashboard
+               i. Total amount of staked tokens: This metric shows the total amount of tokens that are currently staked across all of the different staking pools.
+               ii. APY for each staking pool: This metric shows the annual percentage yield (APY) for each staking pool. 
+               iii. Minimum stake required for each pool: This metric shows the minimum amount of tokens that users need to stake in order to participate in a particular pool.
+                iv. Lockup period for each pool: This metric shows the amount of time that users need to lock up their staked tokens before they can withdraw them.
+               v. list of the different staking pools available
+                vi. A description of each staking pool
+               vii. A link to the website of each staking pool
+         
+         2. Creating  Aggregating protocol fees Dashboard
+              i. Total amount of protocol fees collected: This metric shows the total amount of protocol fees that have been collected by all protocols.
+              ii. Protocol fees collected by each protocol: This metric shows the protocol fees collected by each protocol.
+              iii. Protocol fees collected by each asset: This metric shows the protocol fees collected by each asset.
+              iv. Protocol fees collected by each time period: This metric shows the protocol fees collected by each time period, such as day, week, or month.
+              v. Rank the protocol from highest to least.
+              vi. What assets are bringing the highest fees for the protocol
+              vii. A list of the different protocols that collect protocol fees
+              viii. A description of each protocol
+              ix. A link to the website of each protocol
+      
+         I hope to use Tableau or Kafta for my dashboard. Hope this opportunity will be granted.
+
+
+
+6. What **grant amount** are you applying for?
+
+- [X]  $1000
+- [ ]  $500
+- [ ]  $250
+- [ ]  $100
+
+7. How much **time** do you think you need to build your Envio project? We will discuss and agree this timeline if your application / proposal is accepted. 
+           10 Working days 
+
+8. How did you find out about Envio's **"Build Bigger. Ship Faster”** Grant Application?
+
+- [ ]  Twitter
+- [ ]  Referral
+- [ ]  Google / Website
+- [ ]  Event
+- [X]  Other: Dework______
